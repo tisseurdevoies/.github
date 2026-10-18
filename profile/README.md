@@ -9,8 +9,8 @@
 
 <p align="center"><strong>Des boucles vélo avec retour en train, partout en France.</strong></p>
 
-[Tisseur de Voies](https://tisseurdevoies.fr) croise les véloroutes balisées et les lignes de train pour proposer des
-boucles d'une gare à l'autre : tu pars en train, tu roules, tu rentres par une autre gare. Les boucles sont
+[Tisseur de Voies](https://tisseurdevoies.fr) réunit les véloroutes balisées et le réseau de train français sur une même
+carte : pédale d'une gare à l'autre en suivant les véloroutes, puis laisse le train te ramener. Les boucles sont
 pré-calculées à partir de données ouvertes et se consultent librement, sans compte.
 
 ### Ce que tu y trouves
